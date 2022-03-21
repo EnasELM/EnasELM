@@ -2,7 +2,7 @@ Hi I'm Enas! Full-Stack Software Engineer
 
 🌱About me
 
-  Front-end development using HTML,Javascript,CSS,Bootstrap,Material UI
+  Front-end development using HTML,Javascript,React,Redux,CSS,Bootstrap,Material UI
   Backend development using java
   Making for Relational Database Management System
   Solving Data struchure and algorithm questions in java and python  
